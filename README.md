@@ -1,5 +1,5 @@
 # Information
-:ok_hand: :ok_hand: :ok_hand: *Hello, I'm Juan Villa, and here is the **TESTS VERSION** of my last React.js application to search and display animated gifs, from the Giphy Developers API* :ok_hand: :ok_hand: :ok_hand:
+:construction: :construction: :construction: *Hello, I'm Juan Villa, and here is the **TESTS VERSION** of my last React.js application to search and display animated gifs, from the Giphy Developers API* :construction: :construction: :construction:
 
 > Juan Villa
 
